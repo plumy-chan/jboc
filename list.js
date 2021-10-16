@@ -12,7 +12,6 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1mieQOPBdK4tpYZ58WsUzN0QyLsDJePvV", //new house
                "1a_bbdRyfMADdgv5RjHrEUGAigPmLYl_i", //sora wet
                "1yQG_pEdTDKYtEL_ro0H5LHztDotUVbWF", //too cool
-               "1MNPKYOL0p-FzZWsfC5YDBgGd21Ftj3qn", //shy flushed emote
                "1SD4WAWsfyVdqg_c_0oo0iT2fgOEwp5ht", //special amf
                "15vC3SPnc3R_d7akBqQcVWTGD9bsfhcXg", //dumb
                "1xSmvvI-5XJYc0Vz4q8PIeJ768286vT4w", //taeyeon eye
