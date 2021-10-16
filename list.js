@@ -51,14 +51,14 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1eD64nR4PikJmU6ivNR2ScdGxZblH4bVD", //cake cutting
                "1tBxh-z77FifwY2PTRGlb_Hz7Af2h1-IU", //whip
                "1aWUfyJWdyGUWe325NcxyUsfCx1RC9-tO", //gun
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
+               "1j1g1ruRSGDslKOMpCAGVhbRPVDV0fJIX", //advice frogs
+               "1adFMy5tcQ2e4zEQYPPshjQQucLCaS-7x", //curious cat
+               "11bSSLT1wd9E9vjQ6YwhannnCNsnkuHII", //hollywood next level
+               "1tYWDj0s7GAhXztJWS_PC_w14XhtlNzkQ", //oh my god
+               "1qbwmQh5z8WwoP8lZzR6lAy4Lgq7JC6oc", //physically two people
+               "1262_Z7o6d72KRJXeevr0KsG27zkQ7zyV", //plumy effect
+               "1yLnpiUWIbGqd5Dw6Vbf2p-dZA1Gbuj6X", //pretty girls
+               "1WKDxQWA5v1x2W8-kuD3kQvVD_8oczMyv", //weeb
                "", //
                "", //
                "", //
