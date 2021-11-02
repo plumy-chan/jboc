@@ -58,6 +58,18 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1262_Z7o6d72KRJXeevr0KsG27zkQ7zyV", //plumy effect
                "1yLnpiUWIbGqd5Dw6Vbf2p-dZA1Gbuj6X", //pretty girls
                "1WKDxQWA5v1x2W8-kuD3kQvVD_8oczMyv", //weeb
+               "1J_sYmh1JCOykijDGN3rFbZHISHV92UPw", //angel funbox
+               "1mojqphu6UV6HvIW36NVUpL7bldowNE50", //axe throw
+               "1AVW5pb9eRmqSJZbqrNyKVkzlip57o2TR", //blue knight
+               "1fNH1oRWpQoLYaALH1l3JWgurVZUZQk5U", //candy trick or treat
+               "1P3Y7vjbL2_ICwlitAa9LaLl64JLniKjS", //horror nights
+               "1BylBe6SEhXtfElTo-0dtCG11VpwU3M81", //omg plumy halloween
+               "1FtRK3Wc7i4ZghI_yC4QWaIBvFGxgOGk9", //riding hood
+               "1AeR9jZy36hunLZua-OIOIQWt1DvNCGCB", //sniper
+               "", //
+               "", //
+               "", //
+               "", //
                "", //
                "", //
                "", //
