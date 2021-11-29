@@ -66,9 +66,17 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1BylBe6SEhXtfElTo-0dtCG11VpwU3M81", //omg plumy halloween
                "1FtRK3Wc7i4ZghI_yC4QWaIBvFGxgOGk9", //riding hood
                "1AeR9jZy36hunLZua-OIOIQWt1DvNCGCB", //sniper
-               "", //
-               "", //
-               "", //
+               "1jGc8hwBm8pxXPUiq0YOitIo3fnO0RmbM", //bats austin
+               "1BhBrR9jdEq-yqk1HDiqoI26d3y0rAAQT", //big axe
+               "1Vr-fd8qvxCv6MhHWnDQYFnVx3DislhFH", //cowgirl boots
+               "1Jl4TUJ6y3QYBJbCRfpmRSHWrhH9h_2A3", //bull riding
+               "1ZDLdwcvHuVveAE5YHry21cLJ0E05Z3I5", //captain marvel
+               "15EGkPsUB_PzEnymGkazeRAhmv-Vn0c1H", //friends chair
+               "1Yerx3K7cHRRwlp7BEl5N7J_7CEcgmqFO", //friends hallway
+               "1xkel7askOn_NWojnBOcd5kvp5VJQNCXv", //meetup chika
+               "1OdEvpgkmgUq43L_4o6HflFgHzhXAVWti", //animecon raiden
+               "1E-ESiBC3kcDShiPqtyTMOZsZ2Ios3Gwg", //rhythm game
+               "1EcxtIHA8aRRxqqORgog_IXv8zmDa_aBF", //ziplineq
                "", //
                "", //
                "", //
