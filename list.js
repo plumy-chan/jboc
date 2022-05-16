@@ -10,7 +10,7 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1-qxIN2j0mGCEFesF-gNpa8B4DDQAsk-u", //candy jumpscare
                "1Mr6ivWMyq2Q0huZ7t_lDThRenTOHzvNc", //grappling
                "1mieQOPBdK4tpYZ58WsUzN0QyLsDJePvV", //new house
-               "1a_bbdRyfMADdgv5RjHrEUGAigPmLYl_i", //sora wet
+               //"1a_bbdRyfMADdgv5RjHrEUGAigPmLYl_i", //sora wet
                "1yQG_pEdTDKYtEL_ro0H5LHztDotUVbWF", //too cool
                "1SD4WAWsfyVdqg_c_0oo0iT2fgOEwp5ht", //special amf
                "15vC3SPnc3R_d7akBqQcVWTGD9bsfhcXg", //dumb
@@ -19,7 +19,7 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1SkumLqK96IqRlOUb7CtDqAHWojtmJGFy", //bunny
                "1euhLc45JpUDrTUuBdvfZSA6j2Zazp540", //blood maid
                "1Mcb8qDK33iFe7pnG4cTnZ3fBenio7Ezt", //fertilizer
-               "14fYUHUCReEL0l0HVeYvAYGjZFLKd-4Lu", //kiss camera
+               //"14fYUHUCReEL0l0HVeYvAYGjZFLKd-4Lu", //kiss camera
                "1-snTDpen4W2yH9ne18PB83KS_NgfBGcZ", //backstreet boys
                "14xp34F-Jze4AyreT8jR5VeI1KjYVfLl0", //cafe 5 hit
                "1Ph5Df1pHcASKAv7_6Wky7YD1M2SJdGwJ", //pool hit
@@ -33,7 +33,7 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1ozLs-NfIEHSFZCg2rWrbJhOk_ItueAQG", //belly
                "1Naa_mGkoFpp1I3Kuq04YmDWkAdrUgE_H", //close eyes kill
                "1HVFx2Fo5kSM07EbFIFsFChN84npgq-Or", //cup of tea
-               "1J17-PoC5b60_dmZQPAiEf9UiMmVID5qk", //dundun amber
+               //"1J17-PoC5b60_dmZQPAiEf9UiMmVID5qk", //dundun amber
                "18s77nlAGHfifMsbJWWPv_RlgSGK55bOZ", //find me 
                "1F_5sR3U7ylmh8eIQDDCHIZa6sNc8wpO-", //girlfriend vr
                "14e03qIXecrxiapDNNtEwFj2ZNK0TN7P9", //happy
@@ -66,6 +66,14 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1BylBe6SEhXtfElTo-0dtCG11VpwU3M81", //omg plumy halloween
                "1FtRK3Wc7i4ZghI_yC4QWaIBvFGxgOGk9", //riding hood
                "1AeR9jZy36hunLZua-OIOIQWt1DvNCGCB", //sniper
+               "1YFqPU8Pmv_LUd2R5Px-AUftJizxlK5_q", //allen where
+               "1_x6aNWKbEoNgaKOo4SB29tN9zPS3HxUS", //didn't watch
+               "1S2WR_eFc0tolGcD-qIftkD4ZAx4mmlPI", //don't like me
+               "1seTZUSAXCZI91O4vQP0Mp3jnaHpFhBCO", //faker lost
+               "1AVi1tP9XKoGrwhECyanudZgQCCCPtJBB", //love dive practice 
+               "1M5Twyg9AUXs2F5c33PK_dEeoZBlYrMh7", //pico park
+               "1LA3OQt71NK6KM1IK6Nb7zY-VIKXz0hdr", //play safe
+               "", //
                "", //
                "", //
                "", //
