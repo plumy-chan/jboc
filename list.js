@@ -69,7 +69,7 @@ let clipIDs = ["14QvMxODh8X-9a5cljt3KA8bg4vBA-2UO", //20210607.something somethi
                "1YFqPU8Pmv_LUd2R5Px-AUftJizxlK5_q", //allen where
                "1_x6aNWKbEoNgaKOo4SB29tN9zPS3HxUS", //didn't watch
                "1S2WR_eFc0tolGcD-qIftkD4ZAx4mmlPI", //don't like me
-               "1seTZUSAXCZI91O4vQP0Mp3jnaHpFhBCO", //faker lost
+               //"1seTZUSAXCZI91O4vQP0Mp3jnaHpFhBCO", //faker lost
                "1AVi1tP9XKoGrwhECyanudZgQCCCPtJBB", //love dive practice 
                "1M5Twyg9AUXs2F5c33PK_dEeoZBlYrMh7", //pico park
                "1LA3OQt71NK6KM1IK6Nb7zY-VIKXz0hdr", //play safe
