@@ -1,52 +1,66 @@
 // One Google Drive file ID per line
 let clipIDs = ["1QrPh689ORz4lB9O1LmiwPgl0fj3oOVZk", //고양이_그릇
                "1FA4rxtgqYxw099qUILIDRmF93QQ4oOxt", //고양이_설기아가들_처음눈뜸
-               "1lDvF0rvQbf973venD84D8op_-F318hmR", //댄스_같은시간
-               "1sI6s2euuJR7K7j6E3Bt95ims-E1yU-9j", //아이폰13pro
                "1qoDOSeX7XwrHKLISr4TEAUIu7SGqQSsm", //고양이_아가셋
+               "1Fd4bgsZDHUXm3_jgPkOWdRZcgbUJdtHu", //고양이_설기_애교
+               "1sI6s2euuJR7K7j6E3Bt95ims-E1yU-9j", //아이폰13pro
+               "1lZC18WSzatkzv590qYC5Dku2ud9DmBrN", //댄스_싸이대디
+               "1lDvF0rvQbf973venD84D8op_-F318hmR", //댄스_같은시간
+               "1iY9_j20tCtgjYqMMvriWdl-LB7BsOtfH", //댄스_코카인_유캠_
+               "1zPmcBD5ZKI1n2ROLUxyTEULI1whZ8FID", //댄스_야니_츄츄송_부산야외
+               "1kXM-awSatbZvGdSwJs32TpQ95sv0Bh9c", //댄스_깡_밍미단이
                "1Ny5Ms48txZYmjDlsDbUwLDacAXweRD4e", //댄스_굿보이_루돌프잠옷
+               "15BajvziST7blntcIPVjC5xWu3vHaqCHp", //댄스_몽키매직_식스팩티
                "1M97oNv0SqbMC97CasdKGLGZGwt_tX4lY", //댄스_블루문
                "1JLsS_WsCeI--vqu9agO9CgpVHsXvrOCf", //댄스_조커댄스_밍
                "1n41rSzMX-h2ER61niyD-BGioO7HekzvJ", //댄스_퀸덤_제주도야외
                "11bOzEqn3No95wiN55yZeeVl90WgVWtCA", //댄스_툥이
                "1IU4SYw60HgnFbRSYXE1jxXmqiG-txcbB", //댄스_stay_베리
+               "1EWGYsQzB1ufRLp9e712dgANnMukEFaQj", //댄스_츄츄송_하츄비언니서연
+               "1ES87AfaY-XFsxx0k6QhdGw-ajqNunpf0", //댄스_빨개요_노란투피스
                "1kAAt8YcVgsb0yz9s6QelNCLteZuU8a3D", //불태피짱_버블리밍유니
                "1XnZ2vOtUFa7ybB28AsYrziVeAYh0HGBG", //코스프레_스파이더맨_호캉스
                "1R9NachLk0fz2O1T29_LbBk45qimYWQFm", //하츄비언니가레이드해줬을때
                "12m4cdDNep-Tc_XGjGwgyWr3bfUoNoQKt", //하츄비언니에게레이드해줬을때
                "1NFq1P5i-Q1vxSf-4kt3Ci0ubbP9pT0RM", //SOS
                "1GsGLZ2QlQuYXtRxF24FB3hVLCfXBfheU", //소라부리또
-               "1EWGYsQzB1ufRLp9e712dgANnMukEFaQj", //댄스_츄츄송_하츄비언니서연
-               "1ES87AfaY-XFsxx0k6QhdGw-ajqNunpf0", //댄스_빨개요_노란투피스
                "13ZtogRRG_Ul0XuWeOGK7QCaXApj-r_KI", //운동_베리
-               "15BajvziST7blntcIPVjC5xWu3vHaqCHp", //댄스_몽키매직_식스팩티
                "1XZxkKw3_LPPogb9LVxlN6twwRuWr6B74", //애교_쥐잡이송
                "1VG3ZN32dpkuekxZUYg2Gf_oF-kjjbuu7", //애교_도네를주세요
                "1q32O4m6WiHDwGlCYWeJFe8Q411F2G8eU", //노래_이수
-               "1kXM-awSatbZvGdSwJs32TpQ95sv0Bh9c", //댄스_깡_밍미단이
                "1u_y5DfG247DIvniUd3Lffp5SMjeHj7WD", //고양이_시루설탕_거실의자
                "1ICGupy2wmhxg1oeJrf5zIxhRMeiIKh1v", //milk first
                "18pbOPUfAsttP-68wHck_tolpcMmd0YKi", //코스프레_한푸_설기
                "15eNM3ICM3hkKAGqO05tgT4R-tSYGeu8a", //코스프레_에밀리아
-               "1C8IE0kV2QQWFfMjS952fL_MPCm1Pms0W", //여행_제주도_우도_역주행
                "1dDsjYjlwI3_CZIh6M8TpWr2N0NzpRb6R", //코스프레_간호사_설탕
+               "1C8IE0kV2QQWFfMjS952fL_MPCm1Pms0W", //여행_제주도_우도_역주행
+               "1eltCyWbakVSt4U8LXuZ_uxNPko97F4Pk", //여행_여수_튜브안녕
                "1UAwENAMlRBai3n4IcOOBU8tHCyB3isxK", //여행_제주도_비키니_밍유니
-               "1iY9_j20tCtgjYqMMvriWdl-LB7BsOtfH", //댄스_코카인_유캠_
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
-               "", //
+               "1HJoCmiHYGPvWUUiqBkGsYBQnh99OHyRD", //10K_1
+               "1cPujJ-NjXKQhI62KNZrDwuVEC72AAXtU", //10K_2
+               "17NFCNKabCpC-TlOKCi2UxiGJhizgBeUZ", //미니밋업_펀치
+               "1Zsv_uo0o19kpE6DyLlAowjMNF89IHwt2", //요리_간장소스_부엌테러
+               "1iQvnWbFhSLldH1e1R3JnDjDrMv6vy8aO", //PC방송_레몬색원피스_츄츄송
+               "1WWBEqBoNLU2rsCD8qSJLDvIcUOQ8sutg", //여행_부산VR_쿡석스님
+               "1FTYY5PAug2EMbmc_UoiTg82sM3nj4b39", //여행_야니리니소라_귀요미송_캡슐열차
+               "13jL7mVnOqKOB_fBKR5msj8lpqpHmIrtb", //여행_야니리니소라_코카인
+               "1jWAFUvUbIpIj7S-vOu26l1dY5Hm0CMtt", //여행_부산_코카인댄스를본야니
+               "1546IZcYaU-Nsk1-fVryFy5Q8qjK5QihL", //하츄언니_유럽레스토랑플랜_911
+               "1un8K7BlYswWAQdnb-PCcUT4SvCitCzx-", //다리찢기_유니진리
+               "1KbEBtNh-uy6XUMeqZcDhmXUnKej8fx-y", //댄스_유니_랩댄스_생일파티
+               "1vrDawia-yqr8MFLBBYmCEZBpOipi3cyv", //댄스_야미야미송
+               "1qnp-nP01V8hbp6sUOCQrfHp_-3HD_aky", //댄스_현아_베베
+               "1YI5BYt2cmEKc7rA_HSwXNT2Kvkam_1P9", //댄스_사쿠란보_민트니트
+               "1qx5mXgBQTBZX1kG56wGJizS0LvgGNYUz", //댄스_나만없어고양이
+               "1QxeiK9jZqS6qxry0jU50HThi4LTv07xQ", //댄스_코카인_핫핑크티셔츠
+               "1QtnN2pgX13POlTAmMIezJlmYXunEKQoy", //하츄언니댄스콘테스트_댄스포유_댓츠마이걸_측면
+               "1IKrCjkVg5o8qie4iXASBCNEzCazpWIbg", //하츄언니댄스콘테스트_비올레타_측면
+               "196Jpb-96_1GpAKz4eo6eqOmgCvAHAzmM", //유튜브_커버_댄스_보카
+               "1fHLGhCNI3-Fqzpmo2XyfYSv_FqW6aUnr", //노래_이자벨의 결의_뮤지컬_MV
+               "1FvgvTg97XBWFqFzZJLLTFw1OxtZFSLrC", //유튜브_땡큐송
+               "1KWPmHtEn5pbVTJOs-TVZTb228ndNJLu-", //유튜브_시계바늘_MV
+               "1ei2UOpJoK5Ltayt7hma5Rrfib-Xf3njc", //불독_어때요_방송무대_교차편집
+               "1SlIhnw23wc_GQduUxwOLNQteQz11lcpk", //불독_돈매러_포천공연
                "", //
                "", //
                "", //
