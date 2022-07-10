@@ -5,6 +5,7 @@ let clipIDs = ["1QrPh689ORz4lB9O1LmiwPgl0fj3oOVZk", //고양이_그릇
                "1Fd4bgsZDHUXm3_jgPkOWdRZcgbUJdtHu", //고양이_설기_애교
                "1sI6s2euuJR7K7j6E3Bt95ims-E1yU-9j", //아이폰13pro
                "1lZC18WSzatkzv590qYC5Dku2ud9DmBrN", //댄스_싸이대디
+               "1LXrU4cUQsYTqic-GTD4axMWUhOddEH9U", //댄스_러브다이브_생일파티
                "1lDvF0rvQbf973venD84D8op_-F318hmR", //댄스_같은시간
                "1iY9_j20tCtgjYqMMvriWdl-LB7BsOtfH", //댄스_코카인_유캠_
                "1zPmcBD5ZKI1n2ROLUxyTEULI1whZ8FID", //댄스_야니_츄츄송_부산야외
@@ -61,7 +62,6 @@ let clipIDs = ["1QrPh689ORz4lB9O1LmiwPgl0fj3oOVZk", //고양이_그릇
                "1KWPmHtEn5pbVTJOs-TVZTb228ndNJLu-", //유튜브_시계바늘_MV
                "1ei2UOpJoK5Ltayt7hma5Rrfib-Xf3njc", //불독_어때요_방송무대_교차편집
                "1SlIhnw23wc_GQduUxwOLNQteQz11lcpk", //불독_돈매러_포천공연
-               "", //
                "", //
                "", //
                "", //
